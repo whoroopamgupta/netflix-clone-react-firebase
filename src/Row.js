@@ -19,7 +19,7 @@ function Row({title, fetchUrl, isLargeRow = false}) {
 
     },[fetchUrl]);
 
-    console.log(movies);
+    // console.log(movies);
 
 
     return (
